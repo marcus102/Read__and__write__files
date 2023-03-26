@@ -20,4 +20,11 @@
 # with open('my_note.txt', mode='w') as file:
 #   file.write("\nI'm 21")
 
+# with open('/Users/SAWADOGO W MARCUS/Desktop/my_file.txt') as file:
+#   contents = file.read()
+#   print(contents)
+
+
+
+
   
